@@ -94,17 +94,6 @@ Good mix of coherence and creativity
 **Temperature 1.0** (Creative):
 More experimental, potentially less coherent but more surprising
 
-## File Structure
-
-```
-shakespeare-text-generator/
-│
-├── shakespeare_generator.py    # Main script
-├── text_generator.keras       # Saved model (generated after training)
-├── README.md                  # This file
-└── requirements.txt           # Dependencies
-```
-
 ## Model Performance
 
 - **Training Data**: ~500,000 characters from Shakespeare's works
@@ -151,7 +140,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - Shakespeare text corpus provided by TensorFlow
 - Built with TensorFlow and Keras
-- Inspired by Andrej Karpathy's character-level RNN work
+-Inspired by NeuralNine 
 
 ## Future Improvements
 
